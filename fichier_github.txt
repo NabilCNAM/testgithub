@@ -1,2 +1,6 @@
 blablabla
+<<<<<<< HEAD
 je suis dev 2
+=======
+Je suis dev 1
+>>>>>>> b4d400f6e08b89bec583c180911953b8a007eaa9
